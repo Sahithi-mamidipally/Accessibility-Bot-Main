@@ -1,5 +1,5 @@
 # Accessibility-Bot
-# Accessibility Bot
+
 
 ## Overview
 Accessibility Bot is a web-based application designed to enhance digital accessibility for individuals with disabilities. Built with React and Firebase, this innovative tool incorporates features like voice commands, text-to-speech, speech-to-text, and dynamic text magnification, making digital content more accessible to users with varying abilities.
